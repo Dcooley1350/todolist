@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/todo.Solution/todo/todo.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/todolist/todo/todo.csproj",
       "projectName": "todo",
-      "projectPath": "/Users/Guest/Desktop/todo.Solution/todo/todo.csproj",
+      "projectPath": "/Users/Guest/Desktop/todolist/todo/todo.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/todo.Solution/todo/obj/",
+      "outputPath": "/Users/Guest/Desktop/todolist/todo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

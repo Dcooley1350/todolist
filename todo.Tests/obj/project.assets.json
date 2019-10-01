@@ -5829,11 +5829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/todo.Solution/todo.Tests/todo.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/todolist/todo.Tests/todo.Tests.csproj",
       "projectName": "todo.Tests",
-      "projectPath": "/Users/Guest/Desktop/todo.Solution/todo.Tests/todo.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/todolist/todo.Tests/todo.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/todo.Solution/todo.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/todolist/todo.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/todo.Solution/todo/todo.csproj": {
-              "projectPath": "/Users/Guest/Desktop/todo.Solution/todo/todo.csproj"
+            "/Users/Guest/Desktop/todolist/todo/todo.csproj": {
+              "projectPath": "/Users/Guest/Desktop/todolist/todo/todo.csproj"
             }
           }
         }
