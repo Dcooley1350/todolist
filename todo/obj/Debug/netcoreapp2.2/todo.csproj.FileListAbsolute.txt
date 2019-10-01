@@ -7,3 +7,14 @@
 /Users/Guest/Desktop/todo.Solution/todo/bin/Debug/netcoreapp2.2/todo.pdb
 /Users/Guest/Desktop/todo.Solution/todo/obj/Debug/netcoreapp2.2/todo.dll
 /Users/Guest/Desktop/todo.Solution/todo/obj/Debug/netcoreapp2.2/todo.pdb
+/Users/Guest/Desktop/todolist/todo/bin/Debug/netcoreapp2.2/todo.deps.json
+/Users/Guest/Desktop/todolist/todo/bin/Debug/netcoreapp2.2/todo.runtimeconfig.json
+/Users/Guest/Desktop/todolist/todo/bin/Debug/netcoreapp2.2/todo.runtimeconfig.dev.json
+/Users/Guest/Desktop/todolist/todo/bin/Debug/netcoreapp2.2/todo.dll
+/Users/Guest/Desktop/todolist/todo/bin/Debug/netcoreapp2.2/todo.pdb
+/Users/Guest/Desktop/todolist/todo/obj/Debug/netcoreapp2.2/todo.csprojAssemblyReference.cache
+/Users/Guest/Desktop/todolist/todo/obj/Debug/netcoreapp2.2/todo.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/todolist/todo/obj/Debug/netcoreapp2.2/todo.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/todolist/todo/obj/Debug/netcoreapp2.2/todo.AssemblyInfo.cs
+/Users/Guest/Desktop/todolist/todo/obj/Debug/netcoreapp2.2/todo.dll
+/Users/Guest/Desktop/todolist/todo/obj/Debug/netcoreapp2.2/todo.pdb
